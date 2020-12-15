@@ -12,6 +12,11 @@ function App() {
 
         <p>
           Im <code>from</code> Mexico.
+          Hi <code>my</code>name is Carlos.
+        </p>
+
+        <p>
+          I'm <code>from</code>Mexico!
         </p>
         <a
           className="App-link"
